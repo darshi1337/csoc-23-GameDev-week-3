@@ -1,4 +1,4 @@
-## Playlist
+## Videos
 ![PIXEL ART in Photoshop (Tutorial)](http://img.youtube.com/vi/rLdA4Amea7Y/0.jpg)<br/>
 [PIXEL ART in Photoshop (Tutorial)](https://youtu.be/rLdA4Amea7Y)  <br/>
 <br/>
