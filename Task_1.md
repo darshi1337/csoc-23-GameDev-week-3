@@ -1,6 +1,8 @@
 ## Task 1
 Create a pixel art barrel that would fit a pirate game. The barrel should fit into a 32x32 pixel size although it can be smaller. 
 You should use no more than 15 colors. Then import the barrel sprite into Unity, place it in a scene, and take a screenshot.  
+Hint: Complete week 2 of the given course. 
+
 It will look something like this:<br/>
 
 ![Barrel Pixelart](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/a1d19dc2-0f69-4a33-bbdc-debc51a22a76)
