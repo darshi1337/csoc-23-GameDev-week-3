@@ -7,15 +7,15 @@ Hint: Complete week 2 of the given course.
 It will look something like this:<br/>
 
 Ground tile set:  
-![Screenshot (884)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/b0e2ebf1-edba-4b6d-aa34-6bf6c39c793e)
+![Ground tile set](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/b0e2ebf1-edba-4b6d-aa34-6bf6c39c793e)
 Sky tile set:  
-![Screenshot (891)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/57444d2e-0eb6-4992-91a3-16e5e088b524)
+![Sky tile set](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/57444d2e-0eb6-4992-91a3-16e5e088b524)
 Mountains tile set:  
-![Screenshot (892)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/ba2c08f0-7f8a-409b-922e-7507605cbd45)
+![Mountains tile set](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/ba2c08f0-7f8a-409b-922e-7507605cbd45)
 Background tile set:  
-![Screenshot (911)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/685e4f76-2011-46ac-8aaf-4edaf61005eb)
+![Background tile set](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/685e4f76-2011-46ac-8aaf-4edaf61005eb)
 Level Design:  
-![Screenshot (912)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/4f8e272e-3650-47ec-9aae-262947466650)
+![Level Design](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/4f8e272e-3650-47ec-9aae-262947466650)
 
 Like with the barrel asset assignment, see how you can use the constraints of the exercise to make creative and interesting choices. 
 What the player might find in the environment is up to you. Coins? Treasure? A shipwreck? These decisions will create atmosphere for your game.  
