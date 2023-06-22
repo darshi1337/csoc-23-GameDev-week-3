@@ -15,4 +15,4 @@ You can enroll in this course by creating a Coursera account. Click enroll for f
 
 ![Pixel Art for Video Games](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/bfab9163-7407-4469-930a-53ceb70d5b7d)
 [Link](https://www.coursera.org/learn/pixel-art-video-games)  
-Complete week 1 and 2 for now.
+Complete week 1 and 2 of this course for now.
